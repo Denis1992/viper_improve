@@ -1,0 +1,17 @@
+syntax: glob
+.DS_Store
+ObjcUML/
+*.dSYM.zip
+*.mobileprovision
+build/
+xcuserdata
+profile
+*.xcworkspace
+*.orig
+DerivedData
+.idea/
+# Pods - for those of you who use CocoaPods
+Pods
+*.psd
+*.ipa
+*.lock
